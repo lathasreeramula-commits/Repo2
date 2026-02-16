@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 7865-9C51
+
+ Directory of C:\Latha Sreeramula\My Study Folder\Automation Testing\eclipse Projects\For Git practice1
+
+16/02/2026  10:41 AM    <DIR>          .
+15/02/2026  02:13 AM    <DIR>          ..
+15/02/2026  02:41 AM               462 index.html
+15/02/2026  12:37 PM                 8 test1.txt
+16/02/2026  10:41 AM                 0 test2.txt
+               3 File(s)            470 bytes
+               2 Dir(s)  397,419,970,560 bytes free
